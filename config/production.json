@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb+srv://chappic:1234@cluster0.spiea.mongodb.net/app?retryWrites=true&w=majority",
+    "jwtSecter": "vladilen youtube mern",
+    "baseUrl": "http://localhost:5000"
+}
